@@ -1,5 +1,7 @@
 # CSC-517 Program 2
 
+Deployed at <a href="http://152.7.178.115:8080/">http://152.7.178.115:8080/</a>
+
 ## Credentials for preconfigured admin
 **Email:** admin@gmail.com
 
